@@ -39,7 +39,7 @@ A arquitetura multitarefa divide a responsabilidade entre os dois núcleos do RP
 
 ## 🚀 Como Rodar
 
-1. Instale o [SDK do Raspberry Pi Pico](https://github.com/raspberrypi/pico-sdk).
+1. Instale o [SDK do Raspberry Pi Pico](https://github.com/raspberrypi/pico-sdk). (version=1.51)
 2. Clone este repositório:
    ```bash
    git clone https://github.com/AntonioFialhoSN/uni1_cap2_AntonioFialho.git
